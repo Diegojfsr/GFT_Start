@@ -3,6 +3,7 @@
 
 <h4> Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pela GFT. </h4>
 
+
 ![](https://github.com/Diegojfsr/GFT_Start/blob/main/Imagens/Start%20GFT.jpg)
 
 
