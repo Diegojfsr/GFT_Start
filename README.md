@@ -10,7 +10,6 @@
 <h2> 🎯 Objetivo </h2>
 Programa gratuito para formação e recrutamento de estagiários pela GFT. O programa explora uma trilha completa em Java para pessoas regularmente matriculadas no ensino superior e contém cursos, desafios práticos e mentorias exclusivas com experts da multinacional.  
 
-
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
 <li> Módulo I - Fundamentos. <a href="https://github.com/Diegojfsr/GFT_Start/tree/main/Modulos/M%C3%B3dulo%20I%20-%20Fundamentos"> Acessar </a></li>
