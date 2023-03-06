@@ -19,7 +19,6 @@ Programa gratuito para formação e recrutamento de estagiários pela GFT. O pro
 </ul>
 
 
-
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 <ul dir="auto">
