@@ -20,8 +20,6 @@ Programa gratuito para formação e recrutamento de estagiários pela GFT. O pro
 <li> Módulo VI - Java Avançado. <a href="https://github.com/Diegojfsr/GFT_Start/tree/main/Modulos/M%C3%B3dulo%20VI%20-%20Java%20Avan%C3%A7ado"> Acessar </a></li>
 </ul>
 
-
-
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 <ul dir="auto">
